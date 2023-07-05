@@ -1,0 +1,50 @@
+relationship,category
+ex_dating,Romance
+colleague,Organizational
+engaged,Romance
+best_friend,Social
+neighbor,Social
+child,Family
+parent,Family
+childhood_friend,Social
+teacher,Role Based
+adopted_child,Family
+boss,Organizational
+grandparent,Family
+sibling,Family
+divorcee,Romance
+grandchild,Family
+friend,Social
+step_sibling,Family
+employee_in_large_company,Organizational
+person_with_authority,Role Based
+neice_nephew,Family
+complete_stranger,Social
+acquaintance,Social
+friends_with_benefits,Romance
+sports_teammate,Peer group
+dating,Romance
+person_having_an_affair,Romance
+direct_report,Organizational
+mentor,Role Based
+domestic_partner,Romance
+club_member,Peer group
+cousins,Family
+uncle_aunt,Family
+classmate,Peer group
+married,Romance
+coworker,Organizational
+old_friend,Social
+mentee,Role Based
+student,Role Based
+rival,Antagonist
+law_enforcement,Role Based
+client,Role Based
+landlord,Role Based
+hero,Parasocial
+competitor,Antagonist
+doctor,Role Based
+enemy,Antagonist
+fan,Parasocial
+patient,Role Based
+lawyer,Role Based

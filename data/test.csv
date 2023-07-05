@@ -1,0 +1,2030 @@
+id,relationship,is_appropriate,label,quote,origin
+773,ex_dating,Yes,0,He needs to get high school diploma too,Adjudication
+773,colleague,Yes,0,He needs to get high school diploma too,Adjudication
+773,engaged,Yes,0,He needs to get high school diploma too,Adjudication
+773,best_friend,Yes,0,He needs to get high school diploma too,Adjudication
+773,neighbor,Yes,0,He needs to get high school diploma too,Adjudication
+773,child,Yes,0,He needs to get high school diploma too,Adjudication
+773,parent,Yes,0,He needs to get high school diploma too,Adjudication
+773,childhood_friend,Yes,0,He needs to get high school diploma too,Adjudication
+773,teacher,Yes,0,He needs to get high school diploma too,Adjudication
+773,adopted_child,Yes,0,He needs to get high school diploma too,Adjudication
+773,boss,Yes,0,He needs to get high school diploma too,Adjudication
+773,grandparent,Yes,0,He needs to get high school diploma too,Adjudication
+773,sibling,Yes,0,He needs to get high school diploma too,Adjudication
+773,divorcee,Yes,0,He needs to get high school diploma too,Adjudication
+773,grandchild,Yes,0,He needs to get high school diploma too,Adjudication
+773,friend,Yes,0,He needs to get high school diploma too,Adjudication
+773,step_sibling,Yes,0,He needs to get high school diploma too,Adjudication
+773,employee_in_large_company,Yes,0,He needs to get high school diploma too,Adjudication
+773,person_with_authority,Yes,0,He needs to get high school diploma too,Adjudication
+773,neice_nephew,Yes,0,He needs to get high school diploma too,Adjudication
+773,complete_stranger,Yes,0,He needs to get high school diploma too,Adjudication
+773,acquaintance,Yes,0,He needs to get high school diploma too,Adjudication
+773,friends_with_benefits,Yes,0,He needs to get high school diploma too,Adjudication
+773,sports_teammate,Yes,0,He needs to get high school diploma too,Adjudication
+773,dating,Yes,0,He needs to get high school diploma too,Adjudication
+773,person_having_an_affair,Yes,0,He needs to get high school diploma too,Adjudication
+773,direct_report,Yes,0,He needs to get high school diploma too,Adjudication
+773,mentor,Yes,0,He needs to get high school diploma too,Adjudication
+773,domestic_partner,Yes,0,He needs to get high school diploma too,Adjudication
+773,club_member,Yes,0,He needs to get high school diploma too,Adjudication
+773,cousins,Yes,0,He needs to get high school diploma too,Adjudication
+773,uncle_aunt,Yes,0,He needs to get high school diploma too,Adjudication
+773,classmate,Yes,0,He needs to get high school diploma too,Adjudication
+773,married,Yes,0,He needs to get high school diploma too,Adjudication
+773,coworker,Yes,0,He needs to get high school diploma too,Adjudication
+773,old_friend,Yes,0,He needs to get high school diploma too,Adjudication
+377,ex_dating,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,colleague,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,engaged,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,best_friend,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,neighbor,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,mentee,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,child,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,parent,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,childhood_friend,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,teacher,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,adopted_child,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,boss,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,grandparent,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,sibling,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,divorcee,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,grandchild,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,friend,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,step_sibling,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,employee_in_large_company,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,neice_nephew,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,friends_with_benefits,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,sports_teammate,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,dating,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,person_having_an_affair,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,direct_report,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,mentor,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,domestic_partner,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,student,No,1,Hundreds of millions? Where did you get that number from?,Adjudication
+377,club_member,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,cousins,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,uncle_aunt,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,classmate,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,married,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,coworker,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+377,old_friend,Yes,0,Hundreds of millions? Where did you get that number from?,Adjudication
+2832,ex_dating,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,colleague,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,rival,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,engaged,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,law_enforcement,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,best_friend,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,neighbor,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,client,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,mentee,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,child,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,parent,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,childhood_friend,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,teacher,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,landlord,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,adopted_child,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,boss,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,grandparent,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,hero,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,sibling,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,divorcee,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,grandchild,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,competitor,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,friend,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,doctor,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,step_sibling,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,enemy,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,employee_in_large_company,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,fan,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,person_with_authority,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,neice_nephew,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,patient,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,complete_stranger,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,acquaintance,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,friends_with_benefits,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,sports_teammate,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,dating,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,person_having_an_affair,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,direct_report,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,mentor,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,domestic_partner,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,student,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,lawyer,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,cousins,Yes,0,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,uncle_aunt,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,classmate,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,married,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,coworker,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+2832,old_friend,No,1,It blows my mind that there are people as ignorant as you alive today.,Adjudication
+1616,ex_dating,Yes,0,How about we investigate what really happened?,Adjudication
+1616,colleague,Yes,0,How about we investigate what really happened?,Adjudication
+1616,engaged,Yes,0,How about we investigate what really happened?,Adjudication
+1616,best_friend,Yes,0,How about we investigate what really happened?,Adjudication
+1616,neighbor,Yes,0,How about we investigate what really happened?,Adjudication
+1616,mentee,Yes,0,How about we investigate what really happened?,Adjudication
+1616,child,No,1,How about we investigate what really happened?,Adjudication
+1616,parent,Yes,0,How about we investigate what really happened?,Adjudication
+1616,childhood_friend,Yes,0,How about we investigate what really happened?,Adjudication
+1616,teacher,Yes,0,How about we investigate what really happened?,Adjudication
+1616,adopted_child,Yes,0,How about we investigate what really happened?,Adjudication
+1616,boss,Yes,0,How about we investigate what really happened?,Adjudication
+1616,grandparent,Yes,0,How about we investigate what really happened?,Adjudication
+1616,sibling,Yes,0,How about we investigate what really happened?,Adjudication
+1616,divorcee,Yes,0,How about we investigate what really happened?,Adjudication
+1616,grandchild,No,1,How about we investigate what really happened?,Adjudication
+1616,friend,Yes,0,How about we investigate what really happened?,Adjudication
+1616,step_sibling,Yes,0,How about we investigate what really happened?,Adjudication
+1616,employee_in_large_company,Yes,0,How about we investigate what really happened?,Adjudication
+1616,neice_nephew,No,1,How about we investigate what really happened?,Adjudication
+1616,acquaintance,No,1,How about we investigate what really happened?,Adjudication
+1616,friends_with_benefits,Yes,0,How about we investigate what really happened?,Adjudication
+1616,dating,Yes,0,How about we investigate what really happened?,Adjudication
+1616,person_having_an_affair,Yes,0,How about we investigate what really happened?,Adjudication
+1616,direct_report,Yes,0,How about we investigate what really happened?,Adjudication
+1616,mentor,Yes,0,How about we investigate what really happened?,Adjudication
+1616,domestic_partner,Yes,0,How about we investigate what really happened?,Adjudication
+1616,cousins,Yes,0,How about we investigate what really happened?,Adjudication
+1616,uncle_aunt,Yes,0,How about we investigate what really happened?,Adjudication
+1616,married,Yes,0,How about we investigate what really happened?,Adjudication
+1616,coworker,Yes,0,How about we investigate what really happened?,Adjudication
+1616,old_friend,Yes,0,How about we investigate what really happened?,Adjudication
+341,ex_dating,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,engaged,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,best_friend,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,neighbor,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,parent,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,childhood_friend,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,grandparent,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,sibling,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,divorcee,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,friend,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,step_sibling,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,complete_stranger,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,friends_with_benefits,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,dating,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,person_having_an_affair,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,mentor,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,domestic_partner,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,cousins,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,classmate,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,married,Yes,0,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+341,old_friend,No,1,What 11 year old needs their mom to hold their hand while trick or treating?,Adjudication
+3136,colleague,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,engaged,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,law_enforcement,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,best_friend,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,neighbor,No,1,Who is paying for her to make all these trips?,Adjudication
+3136,mentee,No,1,Who is paying for her to make all these trips?,Adjudication
+3136,child,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,parent,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,childhood_friend,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,adopted_child,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,boss,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,grandparent,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,sibling,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,grandchild,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,friend,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,step_sibling,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,employee_in_large_company,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,neice_nephew,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,acquaintance,No,1,Who is paying for her to make all these trips?,Adjudication
+3136,friends_with_benefits,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,sports_teammate,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,dating,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,person_having_an_affair,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,direct_report,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,mentor,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,domestic_partner,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,club_member,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,lawyer,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,cousins,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,uncle_aunt,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,classmate,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,married,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,coworker,Yes,0,Who is paying for her to make all these trips?,Adjudication
+3136,old_friend,Yes,0,Who is paying for her to make all these trips?,Adjudication
+538,ex_dating,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,colleague,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,engaged,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,best_friend,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,child,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,parent,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,childhood_friend,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,adopted_child,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,boss,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,grandparent,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,sibling,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,divorcee,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,grandchild,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,competitor,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,friend,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,step_sibling,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,employee_in_large_company,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,neice_nephew,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,friends_with_benefits,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,sports_teammate,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,dating,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,person_having_an_affair,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,direct_report,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,domestic_partner,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,club_member,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,cousins,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,uncle_aunt,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,classmate,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,married,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,coworker,No,1,Imma keep it real with you...nobody is reading that chief.,Adjudication
+538,old_friend,Yes,0,Imma keep it real with you...nobody is reading that chief.,Adjudication
+2064,ex_dating,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,colleague,No,1,Why?! She's young enough to be his daughter,Adjudication
+2064,engaged,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,best_friend,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,neighbor,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,child,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,parent,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,childhood_friend,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,adopted_child,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,boss,No,1,Why?! She's young enough to be his daughter,Adjudication
+2064,grandparent,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,sibling,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,divorcee,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,grandchild,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,friend,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,step_sibling,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,employee_in_large_company,No,1,Why?! She's young enough to be his daughter,Adjudication
+2064,neice_nephew,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,complete_stranger,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,acquaintance,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,friends_with_benefits,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,dating,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,person_having_an_affair,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,direct_report,No,1,Why?! She's young enough to be his daughter,Adjudication
+2064,domestic_partner,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,cousins,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,uncle_aunt,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,married,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+2064,coworker,No,1,Why?! She's young enough to be his daughter,Adjudication
+2064,old_friend,Yes,0,Why?! She's young enough to be his daughter,Adjudication
+200,parent,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,ex_dating,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,childhood_friend,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,friend,Yes,0,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,person_having_an_affair,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,friends_with_benefits,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,domestic_partner,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,engaged,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,sibling,Yes,0,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,step_sibling,Yes,0,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,best_friend,Yes,0,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,divorcee,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,cousins,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,neighbor,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,married,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,old_friend,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+200,dating,No,1,"""Don't complain about how something doesn't work for you"" ????",Adjudication
+3069,ex_dating,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,colleague,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,engaged,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,best_friend,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,neighbor,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,child,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,parent,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,childhood_friend,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,teacher,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,adopted_child,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,boss,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,grandparent,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,sibling,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,divorcee,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,grandchild,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,friend,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,step_sibling,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,employee_in_large_company,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,person_with_authority,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,neice_nephew,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,friends_with_benefits,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,dating,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,person_having_an_affair,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,direct_report,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,mentor,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,domestic_partner,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,cousins,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,uncle_aunt,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,married,Yes,0,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,coworker,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+3069,old_friend,No,1,"You messed that up. It's supposed to be ""Who hurt you?""",Adjudication
+1851,ex_dating,Yes,0,Why do they suck?,Adjudication
+1851,colleague,Yes,0,Why do they suck?,Adjudication
+1851,engaged,Yes,0,Why do they suck?,Adjudication
+1851,best_friend,Yes,0,Why do they suck?,Adjudication
+1851,neighbor,No,1,Why do they suck?,Adjudication
+1851,mentee,No,1,Why do they suck?,Adjudication
+1851,child,No,1,Why do they suck?,Adjudication
+1851,parent,No,1,Why do they suck?,Adjudication
+1851,childhood_friend,Yes,0,Why do they suck?,Adjudication
+1851,teacher,No,1,Why do they suck?,Adjudication
+1851,adopted_child,No,1,Why do they suck?,Adjudication
+1851,boss,No,1,Why do they suck?,Adjudication
+1851,grandparent,No,1,Why do they suck?,Adjudication
+1851,sibling,Yes,0,Why do they suck?,Adjudication
+1851,divorcee,Yes,0,Why do they suck?,Adjudication
+1851,grandchild,No,1,Why do they suck?,Adjudication
+1851,friend,Yes,0,Why do they suck?,Adjudication
+1851,step_sibling,Yes,0,Why do they suck?,Adjudication
+1851,employee_in_large_company,Yes,0,Why do they suck?,Adjudication
+1851,neice_nephew,No,1,Why do they suck?,Adjudication
+1851,complete_stranger,No,1,Why do they suck?,Adjudication
+1851,acquaintance,No,1,Why do they suck?,Adjudication
+1851,friends_with_benefits,Yes,0,Why do they suck?,Adjudication
+1851,sports_teammate,Yes,0,Why do they suck?,Adjudication
+1851,dating,Yes,0,Why do they suck?,Adjudication
+1851,person_having_an_affair,Yes,0,Why do they suck?,Adjudication
+1851,direct_report,No,1,Why do they suck?,Adjudication
+1851,mentor,No,1,Why do they suck?,Adjudication
+1851,domestic_partner,Yes,0,Why do they suck?,Adjudication
+1851,student,No,1,Why do they suck?,Adjudication
+1851,club_member,Yes,0,Why do they suck?,Adjudication
+1851,cousins,Yes,0,Why do they suck?,Adjudication
+1851,uncle_aunt,No,1,Why do they suck?,Adjudication
+1851,classmate,Yes,0,Why do they suck?,Adjudication
+1851,married,Yes,0,Why do they suck?,Adjudication
+1851,coworker,Yes,0,Why do they suck?,Adjudication
+1851,old_friend,Yes,0,Why do they suck?,Adjudication
+2094,ex_dating,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,colleague,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,engaged,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,best_friend,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,neighbor,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,mentee,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,child,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,parent,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,childhood_friend,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,adopted_child,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,boss,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,grandparent,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,sibling,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,divorcee,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,grandchild,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,friend,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,step_sibling,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,employee_in_large_company,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,neice_nephew,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,complete_stranger,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,acquaintance,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,friends_with_benefits,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,sports_teammate,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,dating,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,person_having_an_affair,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,direct_report,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,domestic_partner,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,club_member,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,cousins,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,uncle_aunt,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,classmate,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,married,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,coworker,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2094,old_friend,Yes,0,I thought with lease cars you can drive as much as you want?,Adjudication
+2662,ex_dating,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,colleague,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,engaged,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,best_friend,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,neighbor,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,child,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,parent,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,childhood_friend,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,adopted_child,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,boss,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,grandparent,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,hero,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,sibling,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,divorcee,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,grandchild,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,friend,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,step_sibling,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,employee_in_large_company,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,fan,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,neice_nephew,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,acquaintance,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,friends_with_benefits,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,sports_teammate,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,dating,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,person_having_an_affair,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,direct_report,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,domestic_partner,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,club_member,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,cousins,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,uncle_aunt,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,classmate,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,married,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,coworker,No,1,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2662,old_friend,Yes,0,How does it feel to be a propagandistic shill and not even know it?,Adjudication
+2593,ex_dating,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,colleague,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,engaged,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,best_friend,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,neighbor,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,parent,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,childhood_friend,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,teacher,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,boss,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,grandparent,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,sibling,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,divorcee,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,friend,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,step_sibling,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,employee_in_large_company,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,complete_stranger,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,friends_with_benefits,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,dating,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,person_having_an_affair,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,direct_report,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,domestic_partner,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,cousins,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,uncle_aunt,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,married,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2593,coworker,No,1,So true. They are very susceptible to identity politics,Adjudication
+2593,old_friend,Yes,0,So true. They are very susceptible to identity politics,Adjudication
+2392,colleague,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,engaged,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,best_friend,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,neighbor,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,mentee,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,child,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,parent,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,childhood_friend,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,adopted_child,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,boss,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,grandparent,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,hero,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,sibling,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,grandchild,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,friend,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,step_sibling,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,employee_in_large_company,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,neice_nephew,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,friends_with_benefits,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,sports_teammate,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,dating,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,person_having_an_affair,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,direct_report,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,mentor,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,domestic_partner,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,club_member,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,cousins,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,uncle_aunt,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,classmate,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,married,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,coworker,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+2392,old_friend,Yes,0,Hes a young up and comer though! He has time!,Adjudication
+dtkcrdn,friend,Yes,0,so. stupid.,Perspective
+dtkcrdn,grandparent,No,1,so. stupid.,Perspective
+dtkcrdn,domestic_partner,Yes,0,so. stupid.,Perspective
+dtkcrdn,best_friend,Yes,0,so. stupid.,Perspective
+dtkcrdn,grandchild,Yes,0,so. stupid.,Perspective
+dtkcrdn,friends_with_benefits,Yes,0,so. stupid.,Perspective
+dtkcrdn,law_enforcement,No,1,so. stupid.,Perspective
+dtkcrdn,childhood_friend,Yes,0,so. stupid.,Perspective
+dtkcrdn,uncle_aunt,Yes,0,so. stupid.,Perspective
+dtkcrdn,divorcee,Yes,0,so. stupid.,Perspective
+dtkcrdn,student,No,1,so. stupid.,Perspective
+dtkcrdn,old_friend,Yes,0,so. stupid.,Perspective
+dtkcrdn,neice_nephew,Yes,0,so. stupid.,Perspective
+dtkcrdn,ex_dating,Yes,0,so. stupid.,Perspective
+dtkcrdn,teacher,No,1,so. stupid.,Perspective
+dtkcrdn,cousins,Yes,0,so. stupid.,Perspective
+dtkcrdn,person_having_an_affair,Yes,0,so. stupid.,Perspective
+dtkcrdn,coworker,No,1,so. stupid.,Perspective
+dtkcrdn,boss,No,1,so. stupid.,Perspective
+dtkcrdn,parent,Yes,0,so. stupid.,Perspective
+dtkcrdn,direct_report,No,1,so. stupid.,Perspective
+dtkcrdn,classmate,Yes,0,so. stupid.,Perspective
+dtkcrdn,child,Yes,0,so. stupid.,Perspective
+dtkcrdn,employee_in_large_company,No,1,so. stupid.,Perspective
+dtkcrdn,adopted_child,Yes,0,so. stupid.,Perspective
+dtkcrdn,colleague,No,1,so. stupid.,Perspective
+dtkcrdn,sibling,Yes,0,so. stupid.,Perspective
+dtkcrdn,dating,Yes,0,so. stupid.,Perspective
+dtkcrdn,step_sibling,Yes,0,so. stupid.,Perspective
+dtkcrdn,engaged,Yes,0,so. stupid.,Perspective
+dtkcrdn,married,Yes,0,so. stupid.,Perspective
+dtjxngj,friend,Yes,0,Very immature response.,Perspective
+dtjxngj,grandparent,Yes,0,Very immature response.,Perspective
+dtjxngj,domestic_partner,Yes,0,Very immature response.,Perspective
+dtjxngj,person_with_authority,Yes,0,Very immature response.,Perspective
+dtjxngj,best_friend,Yes,0,Very immature response.,Perspective
+dtjxngj,grandchild,Yes,0,Very immature response.,Perspective
+dtjxngj,friends_with_benefits,Yes,0,Very immature response.,Perspective
+dtjxngj,childhood_friend,Yes,0,Very immature response.,Perspective
+dtjxngj,uncle_aunt,Yes,0,Very immature response.,Perspective
+dtjxngj,divorcee,Yes,0,Very immature response.,Perspective
+dtjxngj,student,No,1,Very immature response.,Perspective
+dtjxngj,old_friend,Yes,0,Very immature response.,Perspective
+dtjxngj,neice_nephew,Yes,0,Very immature response.,Perspective
+dtjxngj,ex_dating,Yes,0,Very immature response.,Perspective
+dtjxngj,teacher,Yes,0,Very immature response.,Perspective
+dtjxngj,neighbor,Yes,0,Very immature response.,Perspective
+dtjxngj,cousins,Yes,0,Very immature response.,Perspective
+dtjxngj,person_having_an_affair,Yes,0,Very immature response.,Perspective
+dtjxngj,mentor,Yes,0,Very immature response.,Perspective
+dtjxngj,acquaintance,Yes,0,Very immature response.,Perspective
+dtjxngj,coworker,Yes,0,Very immature response.,Perspective
+dtjxngj,mentee,No,1,Very immature response.,Perspective
+dtjxngj,complete_stranger,Yes,0,Very immature response.,Perspective
+dtjxngj,boss,Yes,0,Very immature response.,Perspective
+dtjxngj,parent,Yes,0,Very immature response.,Perspective
+dtjxngj,direct_report,No,1,Very immature response.,Perspective
+dtjxngj,classmate,Yes,0,Very immature response.,Perspective
+dtjxngj,child,Yes,0,Very immature response.,Perspective
+dtjxngj,employee_in_large_company,Yes,0,Very immature response.,Perspective
+dtjxngj,sports_teammate,Yes,0,Very immature response.,Perspective
+dtjxngj,adopted_child,Yes,0,Very immature response.,Perspective
+dtjxngj,colleague,Yes,0,Very immature response.,Perspective
+dtjxngj,club_member,Yes,0,Very immature response.,Perspective
+dtjxngj,sibling,Yes,0,Very immature response.,Perspective
+dtjxngj,dating,Yes,0,Very immature response.,Perspective
+dtjxngj,step_sibling,Yes,0,Very immature response.,Perspective
+dtjxngj,engaged,Yes,0,Very immature response.,Perspective
+dtjxngj,married,Yes,0,Very immature response.,Perspective
+dtjt7lc,friend,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,grandparent,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,domestic_partner,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,best_friend,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,grandchild,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,friends_with_benefits,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,childhood_friend,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,uncle_aunt,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,divorcee,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,old_friend,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,neice_nephew,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,ex_dating,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,neighbor,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,cousins,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,person_having_an_affair,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,acquaintance,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,coworker,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,complete_stranger,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,boss,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,parent,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,direct_report,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,child,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,employee_in_large_company,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,adopted_child,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,colleague,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,sibling,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,dating,No,1,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,step_sibling,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,engaged,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtjt7lc,married,Yes,0,Wow you are nothing but doom and gloom ,Perspective
+dtk0zri,friend,Yes,0,Fuck off.,Perspective
+dtk0zri,grandparent,No,1,Fuck off.,Perspective
+dtk0zri,domestic_partner,No,1,Fuck off.,Perspective
+dtk0zri,best_friend,Yes,0,Fuck off.,Perspective
+dtk0zri,grandchild,No,1,Fuck off.,Perspective
+dtk0zri,friends_with_benefits,No,1,Fuck off.,Perspective
+dtk0zri,childhood_friend,Yes,0,Fuck off.,Perspective
+dtk0zri,uncle_aunt,No,1,Fuck off.,Perspective
+dtk0zri,divorcee,No,1,Fuck off.,Perspective
+dtk0zri,old_friend,Yes,0,Fuck off.,Perspective
+dtk0zri,neice_nephew,No,1,Fuck off.,Perspective
+dtk0zri,ex_dating,No,1,Fuck off.,Perspective
+dtk0zri,neighbor,No,1,Fuck off.,Perspective
+dtk0zri,cousins,Yes,0,Fuck off.,Perspective
+dtk0zri,person_having_an_affair,No,1,Fuck off.,Perspective
+dtk0zri,acquaintance,No,1,Fuck off.,Perspective
+dtk0zri,coworker,No,1,Fuck off.,Perspective
+dtk0zri,complete_stranger,No,1,Fuck off.,Perspective
+dtk0zri,boss,No,1,Fuck off.,Perspective
+dtk0zri,parent,No,1,Fuck off.,Perspective
+dtk0zri,direct_report,No,1,Fuck off.,Perspective
+dtk0zri,classmate,No,1,Fuck off.,Perspective
+dtk0zri,child,No,1,Fuck off.,Perspective
+dtk0zri,employee_in_large_company,No,1,Fuck off.,Perspective
+dtk0zri,sports_teammate,No,1,Fuck off.,Perspective
+dtk0zri,client,No,1,Fuck off.,Perspective
+dtk0zri,adopted_child,No,1,Fuck off.,Perspective
+dtk0zri,colleague,No,1,Fuck off.,Perspective
+dtk0zri,club_member,No,1,Fuck off.,Perspective
+dtk0zri,sibling,Yes,0,Fuck off.,Perspective
+dtk0zri,dating,No,1,Fuck off.,Perspective
+dtk0zri,enemy,Yes,0,Fuck off.,Perspective
+dtk0zri,patient,No,1,Fuck off.,Perspective
+dtk0zri,step_sibling,Yes,0,Fuck off.,Perspective
+dtk0zri,engaged,No,1,Fuck off.,Perspective
+dtk0zri,rival,Yes,0,Fuck off.,Perspective
+dtk0zri,married,No,1,Fuck off.,Perspective
+dtjpdn4,friend,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,grandparent,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,domestic_partner,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,best_friend,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,friends_with_benefits,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,childhood_friend,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,divorcee,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,old_friend,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,ex_dating,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,teacher,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,neighbor,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,person_having_an_affair,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,mentor,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,acquaintance,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,coworker,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,boss,No,1,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,parent,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,direct_report,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,employee_in_large_company,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,colleague,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,sibling,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,dating,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,step_sibling,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,engaged,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtjpdn4,married,Yes,0,"My paychecks are bigger than before, and I'm lower middle-class. ",Perspective
+dtk2n8i,friend,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,best_friend,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,childhood_friend,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,old_friend,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,neighbor,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,coworker,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,boss,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,direct_report,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,employee_in_large_company,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk2n8i,colleague,Yes,0,My son's name is Fox. I'd appreciate it if you didn't drag his name through mud like that.,Interpersonal
+dtk9a2e,friend,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,best_friend,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,childhood_friend,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,old_friend,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,neighbor,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,cousins,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,mentor,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,coworker,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,boss,No,1,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,direct_report,No,1,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,employee_in_large_company,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,colleague,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtk9a2e,dating,Yes,0,I'm sorry you got so screwed up by Christmas with your loving family. Terribly sorry. ,Interpersonal
+dtjowmn,friend,Yes,0,sure buddy... I belive you... ,Interpersonal
+dtjowmn,grandparent,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,best_friend,Yes,0,sure buddy... I belive you... ,Interpersonal
+dtjowmn,childhood_friend,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,old_friend,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,coworker,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,complete_stranger,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,parent,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,direct_report,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,classmate,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,employee_in_large_company,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,sports_teammate,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,colleague,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,club_member,No,1,sure buddy... I belive you... ,Interpersonal
+dtjowmn,sibling,Yes,0,sure buddy... I belive you... ,Interpersonal
+dtjowmn,step_sibling,Yes,0,sure buddy... I belive you... ,Interpersonal
+dtjstiu,friend,No,1,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,best_friend,No,1,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,childhood_friend,No,1,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,old_friend,No,1,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,neighbor,Yes,0,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,acquaintance,Yes,0,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,complete_stranger,Yes,0,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtjstiu,classmate,No,1,That's what you think. You are entitled to that. I will continue to drive the way I do. You continue to drive the way you do. And hope we never cross paths. ,Interpersonal
+dtkjcl4,person_with_authority,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,acquaintance,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,coworker,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,complete_stranger,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,boss,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,direct_report,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,employee_in_large_company,No,1,I bet you're a female. ,Interpersonal
+dtkjcl4,colleague,No,1,I bet you're a female. ,Interpersonal
+dtkfyzt,friend,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,grandparent,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,domestic_partner,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,best_friend,Yes,0,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,grandchild,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,friends_with_benefits,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,childhood_friend,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,uncle_aunt,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,divorcee,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,student,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,old_friend,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,neice_nephew,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,ex_dating,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,teacher,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,neighbor,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,cousins,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,person_having_an_affair,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,mentor,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,acquaintance,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,coworker,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,mentee,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,complete_stranger,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,boss,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,parent,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,direct_report,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,classmate,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,lawyer,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,child,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,employee_in_large_company,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,sports_teammate,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,adopted_child,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,colleague,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,club_member,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,doctor,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,sibling,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,dating,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,step_sibling,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,engaged,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtkfyzt,married,No,1,I'm sorry fucking facts offend you.  ,Interpersonal
+dtjqxqh,coworker,No,1,"These are politicians we're talking about. Self-serving, money grubbing, braindead rats.",David
+dtjqxqh,boss,No,1,"These are politicians we're talking about. Self-serving, money grubbing, braindead rats.",David
+dtjqxqh,direct_report,No,1,"These are politicians we're talking about. Self-serving, money grubbing, braindead rats.",David
+dtjqxqh,employee_in_large_company,No,1,"These are politicians we're talking about. Self-serving, money grubbing, braindead rats.",David
+dtjqxqh,colleague,No,1,"These are politicians we're talking about. Self-serving, money grubbing, braindead rats.",David
+dtjpr9a,friend,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,best_friend,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,childhood_friend,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,divorcee,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,old_friend,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,neighbor,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,cousins,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,coworker,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,complete_stranger,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,boss,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,parent,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,direct_report,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,employee_in_large_company,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,colleague,No,1,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,sibling,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,step_sibling,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,engaged,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjpr9a,married,Yes,0,And you didn't have to pay someone to marry you!! Yaaaa!!!,David
+dtjsbvo,friend,Yes,0,Was that girl pregnant?,David
+dtjsbvo,grandparent,Yes,0,Was that girl pregnant?,David
+dtjsbvo,domestic_partner,Yes,0,Was that girl pregnant?,David
+dtjsbvo,best_friend,Yes,0,Was that girl pregnant?,David
+dtjsbvo,grandchild,Yes,0,Was that girl pregnant?,David
+dtjsbvo,friends_with_benefits,Yes,0,Was that girl pregnant?,David
+dtjsbvo,childhood_friend,Yes,0,Was that girl pregnant?,David
+dtjsbvo,uncle_aunt,Yes,0,Was that girl pregnant?,David
+dtjsbvo,divorcee,Yes,0,Was that girl pregnant?,David
+dtjsbvo,old_friend,Yes,0,Was that girl pregnant?,David
+dtjsbvo,neice_nephew,Yes,0,Was that girl pregnant?,David
+dtjsbvo,ex_dating,Yes,0,Was that girl pregnant?,David
+dtjsbvo,teacher,No,1,Was that girl pregnant?,David
+dtjsbvo,neighbor,Yes,0,Was that girl pregnant?,David
+dtjsbvo,cousins,Yes,0,Was that girl pregnant?,David
+dtjsbvo,person_having_an_affair,Yes,0,Was that girl pregnant?,David
+dtjsbvo,mentor,Yes,0,Was that girl pregnant?,David
+dtjsbvo,acquaintance,No,1,Was that girl pregnant?,David
+dtjsbvo,coworker,No,1,Was that girl pregnant?,David
+dtjsbvo,mentee,Yes,0,Was that girl pregnant?,David
+dtjsbvo,complete_stranger,No,1,Was that girl pregnant?,David
+dtjsbvo,boss,No,1,Was that girl pregnant?,David
+dtjsbvo,parent,Yes,0,Was that girl pregnant?,David
+dtjsbvo,direct_report,No,1,Was that girl pregnant?,David
+dtjsbvo,classmate,Yes,0,Was that girl pregnant?,David
+dtjsbvo,lawyer,Yes,0,Was that girl pregnant?,David
+dtjsbvo,child,Yes,0,Was that girl pregnant?,David
+dtjsbvo,employee_in_large_company,No,1,Was that girl pregnant?,David
+dtjsbvo,sports_teammate,Yes,0,Was that girl pregnant?,David
+dtjsbvo,client,Yes,0,Was that girl pregnant?,David
+dtjsbvo,adopted_child,Yes,0,Was that girl pregnant?,David
+dtjsbvo,colleague,No,1,Was that girl pregnant?,David
+dtjsbvo,club_member,Yes,0,Was that girl pregnant?,David
+dtjsbvo,doctor,Yes,0,Was that girl pregnant?,David
+dtjsbvo,sibling,Yes,0,Was that girl pregnant?,David
+dtjsbvo,dating,Yes,0,Was that girl pregnant?,David
+dtjsbvo,patient,Yes,0,Was that girl pregnant?,David
+dtjsbvo,step_sibling,Yes,0,Was that girl pregnant?,David
+dtjsbvo,engaged,Yes,0,Was that girl pregnant?,David
+dtjqxtv,friend,Yes,0,Your mind is sick.,David
+dtjqxtv,grandparent,No,1,Your mind is sick.,David
+dtjqxtv,domestic_partner,Yes,0,Your mind is sick.,David
+dtjqxtv,best_friend,Yes,0,Your mind is sick.,David
+dtjqxtv,grandchild,No,1,Your mind is sick.,David
+dtjqxtv,friends_with_benefits,No,1,Your mind is sick.,David
+dtjqxtv,childhood_friend,Yes,0,Your mind is sick.,David
+dtjqxtv,uncle_aunt,No,1,Your mind is sick.,David
+dtjqxtv,divorcee,Yes,0,Your mind is sick.,David
+dtjqxtv,old_friend,Yes,0,Your mind is sick.,David
+dtjqxtv,neice_nephew,No,1,Your mind is sick.,David
+dtjqxtv,ex_dating,Yes,0,Your mind is sick.,David
+dtjqxtv,neighbor,No,1,Your mind is sick.,David
+dtjqxtv,cousins,Yes,0,Your mind is sick.,David
+dtjqxtv,acquaintance,No,1,Your mind is sick.,David
+dtjqxtv,coworker,No,1,Your mind is sick.,David
+dtjqxtv,complete_stranger,No,1,Your mind is sick.,David
+dtjqxtv,boss,No,1,Your mind is sick.,David
+dtjqxtv,parent,No,1,Your mind is sick.,David
+dtjqxtv,direct_report,No,1,Your mind is sick.,David
+dtjqxtv,classmate,No,1,Your mind is sick.,David
+dtjqxtv,child,No,1,Your mind is sick.,David
+dtjqxtv,employee_in_large_company,No,1,Your mind is sick.,David
+dtjqxtv,sports_teammate,No,1,Your mind is sick.,David
+dtjqxtv,adopted_child,No,1,Your mind is sick.,David
+dtjqxtv,colleague,No,1,Your mind is sick.,David
+dtjqxtv,club_member,No,1,Your mind is sick.,David
+dtjqxtv,doctor,Yes,0,Your mind is sick.,David
+dtjqxtv,sibling,Yes,0,Your mind is sick.,David
+dtjqxtv,dating,No,1,Your mind is sick.,David
+dtjqxtv,step_sibling,Yes,0,Your mind is sick.,David
+dtjqxtv,engaged,No,1,Your mind is sick.,David
+dtjqxtv,married,Yes,0,Your mind is sick.,David
+dtjsmdi,friend,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,grandparent,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,best_friend,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,grandchild,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,childhood_friend,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,uncle_aunt,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,old_friend,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,neice_nephew,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,cousins,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,coworker,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,boss,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,parent,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,direct_report,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,classmate,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,child,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,employee_in_large_company,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,sports_teammate,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,adopted_child,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,colleague,No,1,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,club_member,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,sibling,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjsmdi,step_sibling,Yes,0,Oh fuck off. Is there anything we can do to get this changed back?,David
+dtjrrni,friend,Yes,0,"Jesus, what a moron.",David
+dtjrrni,grandparent,No,1,"Jesus, what a moron.",David
+dtjrrni,domestic_partner,Yes,0,"Jesus, what a moron.",David
+dtjrrni,best_friend,Yes,0,"Jesus, what a moron.",David
+dtjrrni,grandchild,No,1,"Jesus, what a moron.",David
+dtjrrni,friends_with_benefits,Yes,0,"Jesus, what a moron.",David
+dtjrrni,childhood_friend,Yes,0,"Jesus, what a moron.",David
+dtjrrni,uncle_aunt,No,1,"Jesus, what a moron.",David
+dtjrrni,divorcee,Yes,0,"Jesus, what a moron.",David
+dtjrrni,old_friend,Yes,0,"Jesus, what a moron.",David
+dtjrrni,neice_nephew,No,1,"Jesus, what a moron.",David
+dtjrrni,ex_dating,Yes,0,"Jesus, what a moron.",David
+dtjrrni,neighbor,Yes,0,"Jesus, what a moron.",David
+dtjrrni,cousins,Yes,0,"Jesus, what a moron.",David
+dtjrrni,person_having_an_affair,Yes,0,"Jesus, what a moron.",David
+dtjrrni,acquaintance,No,1,"Jesus, what a moron.",David
+dtjrrni,coworker,No,1,"Jesus, what a moron.",David
+dtjrrni,boss,No,1,"Jesus, what a moron.",David
+dtjrrni,parent,No,1,"Jesus, what a moron.",David
+dtjrrni,direct_report,No,1,"Jesus, what a moron.",David
+dtjrrni,classmate,Yes,0,"Jesus, what a moron.",David
+dtjrrni,child,No,1,"Jesus, what a moron.",David
+dtjrrni,employee_in_large_company,No,1,"Jesus, what a moron.",David
+dtjrrni,sports_teammate,Yes,0,"Jesus, what a moron.",David
+dtjrrni,adopted_child,No,1,"Jesus, what a moron.",David
+dtjrrni,colleague,No,1,"Jesus, what a moron.",David
+dtjrrni,club_member,Yes,0,"Jesus, what a moron.",David
+dtjrrni,sibling,Yes,0,"Jesus, what a moron.",David
+dtjrrni,dating,Yes,0,"Jesus, what a moron.",David
+dtjrrni,step_sibling,Yes,0,"Jesus, what a moron.",David
+dtjrrni,engaged,Yes,0,"Jesus, what a moron.",David
+dtjrrni,married,Yes,0,"Jesus, what a moron.",David
+dtjz6jx,friend,Yes,0,Hopefully they are the right kind of syrians.,David
+dtjz6jx,grandparent,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,person_with_authority,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,best_friend,Yes,0,Hopefully they are the right kind of syrians.,David
+dtjz6jx,law_enforcement,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,childhood_friend,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,old_friend,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,teacher,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,neighbor,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,mentor,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,acquaintance,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,coworker,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,complete_stranger,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,boss,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,parent,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,direct_report,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,lawyer,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,employee_in_large_company,No,1,Hopefully they are the right kind of syrians.,David
+dtjz6jx,colleague,No,1,Hopefully they are the right kind of syrians.,David
+dtjrriy,friend,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,grandparent,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,domestic_partner,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,best_friend,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,grandchild,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,friends_with_benefits,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,childhood_friend,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,uncle_aunt,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,divorcee,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,old_friend,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,neice_nephew,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,ex_dating,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,neighbor,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,cousins,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,person_having_an_affair,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,acquaintance,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,coworker,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,complete_stranger,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,boss,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,parent,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,direct_report,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,child,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,employee_in_large_company,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,adopted_child,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,colleague,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,sibling,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,dating,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,step_sibling,Yes,0,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,engaged,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjrriy,married,No,1,"For the record: you were already being snarky, now you're just being a moron.",David
+dtjpp2a,friend,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,best_friend,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,childhood_friend,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,old_friend,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,cousins,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,coworker,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,boss,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,direct_report,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,classmate,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,employee_in_large_company,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,sports_teammate,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,colleague,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,club_member,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,sibling,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjpp2a,step_sibling,Yes,0,"You guys really can't be this far gone, can you?",David
+dtjsavl,friend,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,grandparent,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,domestic_partner,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,person_with_authority,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,best_friend,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,grandchild,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,friends_with_benefits,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,law_enforcement,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,childhood_friend,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,uncle_aunt,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,divorcee,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,old_friend,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,neice_nephew,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,ex_dating,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,neighbor,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,cousins,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,person_having_an_affair,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,mentor,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,acquaintance,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,coworker,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,mentee,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,complete_stranger,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,boss,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,parent,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,direct_report,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,lawyer,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,child,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,employee_in_large_company,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,client,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,adopted_child,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,colleague,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,sibling,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,dating,No,1,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,step_sibling,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,engaged,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjsavl,married,Yes,0,"I hope they hang this motherfucker, make an example outta him.",Agrima
+dtjyax7,friend,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,grandparent,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,domestic_partner,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,best_friend,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,grandchild,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,friends_with_benefits,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,childhood_friend,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,uncle_aunt,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,divorcee,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,old_friend,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,neice_nephew,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,ex_dating,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,neighbor,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,cousins,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,person_having_an_affair,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,acquaintance,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,coworker,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,complete_stranger,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,boss,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,parent,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,direct_report,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,child,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,employee_in_large_company,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,adopted_child,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,colleague,No,1,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,sibling,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,dating,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,step_sibling,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,engaged,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjyax7,married,Yes,0,No we don't. The state needs to learn to live within its limits. You and I do.,Agrima
+dtjvxoz,friend,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,grandparent,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,domestic_partner,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,best_friend,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,grandchild,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,friends_with_benefits,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,childhood_friend,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,uncle_aunt,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,divorcee,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,old_friend,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,neice_nephew,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,ex_dating,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,teacher,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,neighbor,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,cousins,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,person_having_an_affair,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,mentor,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,acquaintance,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,coworker,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,mentee,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,complete_stranger,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,boss,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,parent,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,direct_report,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,classmate,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,child,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,employee_in_large_company,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,sports_teammate,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,adopted_child,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,colleague,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,club_member,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,sibling,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,dating,No,1,Well... at least she's pretty.,Agrima
+dtjvxoz,step_sibling,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,engaged,Yes,0,Well... at least she's pretty.,Agrima
+dtjvxoz,married,Yes,0,Well... at least she's pretty.,Agrima
+dtjzltk,friend,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,grandparent,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,domestic_partner,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,best_friend,Yes,0,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,grandchild,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,friends_with_benefits,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,childhood_friend,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,uncle_aunt,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,divorcee,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,old_friend,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,neice_nephew,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,ex_dating,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,neighbor,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,cousins,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,person_having_an_affair,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,mentor,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,acquaintance,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,coworker,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,mentee,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,complete_stranger,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,boss,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,parent,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,direct_report,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,child,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,employee_in_large_company,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,sports_teammate,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,adopted_child,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,colleague,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,club_member,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,sibling,Yes,0,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,dating,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,step_sibling,Yes,0,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,engaged,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjzltk,married,No,1,Jokes must be tough for you if that bothered you that much.,Agrima
+dtjrh0z,friend,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,domestic_partner,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,best_friend,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,friends_with_benefits,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,childhood_friend,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,divorcee,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,old_friend,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,ex_dating,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,neighbor,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,cousins,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,person_having_an_affair,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,acquaintance,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,coworker,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,complete_stranger,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,boss,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,direct_report,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,employee_in_large_company,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,colleague,No,1,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,sibling,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,dating,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,step_sibling,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,engaged,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjrh0z,married,Yes,0,Didn't think I would find somebody on the same page. We are fuckin Sawft. And have been forever.,Agrima
+dtjq67c,friend,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,grandparent,No,1,I feel ashamed to be white,Agrima
+dtjq67c,domestic_partner,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,best_friend,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,grandchild,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,friends_with_benefits,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,childhood_friend,No,1,I feel ashamed to be white,Agrima
+dtjq67c,uncle_aunt,No,1,I feel ashamed to be white,Agrima
+dtjq67c,divorcee,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,old_friend,No,1,I feel ashamed to be white,Agrima
+dtjq67c,neice_nephew,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,ex_dating,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,neighbor,No,1,I feel ashamed to be white,Agrima
+dtjq67c,cousins,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,person_having_an_affair,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,mentor,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,acquaintance,No,1,I feel ashamed to be white,Agrima
+dtjq67c,coworker,No,1,I feel ashamed to be white,Agrima
+dtjq67c,mentee,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,complete_stranger,No,1,I feel ashamed to be white,Agrima
+dtjq67c,boss,No,1,I feel ashamed to be white,Agrima
+dtjq67c,parent,No,1,I feel ashamed to be white,Agrima
+dtjq67c,direct_report,No,1,I feel ashamed to be white,Agrima
+dtjq67c,child,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,employee_in_large_company,No,1,I feel ashamed to be white,Agrima
+dtjq67c,adopted_child,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,colleague,No,1,I feel ashamed to be white,Agrima
+dtjq67c,sibling,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,dating,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,step_sibling,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,engaged,Yes,0,I feel ashamed to be white,Agrima
+dtjq67c,married,Yes,0,I feel ashamed to be white,Agrima
+dtlagif,friend,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,domestic_partner,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,best_friend,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,friends_with_benefits,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,childhood_friend,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,divorcee,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,old_friend,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,ex_dating,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,neighbor,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,cousins,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,person_having_an_affair,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,mentor,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,acquaintance,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,coworker,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,mentee,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,complete_stranger,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,boss,No,1,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,direct_report,No,1,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,employee_in_large_company,No,1,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,colleague,No,1,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,sibling,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,dating,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,step_sibling,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,engaged,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtlagif,married,Yes,0,Yeah! Now they can funnel the money they save into big oil tax breaks.,Agrima
+dtjrjoa,friend,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,grandparent,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,domestic_partner,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,person_with_authority,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,best_friend,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,grandchild,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,friends_with_benefits,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,childhood_friend,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,uncle_aunt,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,old_friend,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,neice_nephew,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,teacher,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,neighbor,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,cousins,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,person_having_an_affair,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,acquaintance,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,coworker,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,complete_stranger,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,boss,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,parent,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,direct_report,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,child,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,employee_in_large_company,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,adopted_child,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,colleague,No,1,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,sibling,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,dating,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,step_sibling,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,engaged,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjrjoa,married,Yes,0,Sexual harassment. I've never witnessed it or had it happen to me.,Agrima
+dtjsgg8,grandparent,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,grandchild,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,uncle_aunt,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,neice_nephew,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,teacher,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,cousins,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,coworker,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,boss,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,parent,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,direct_report,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,child,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,employee_in_large_company,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,adopted_child,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,colleague,No,1,Do you... know where Scotland is?,Agrima
+dtjsgg8,sibling,Yes,0,Do you... know where Scotland is?,Agrima
+dtjsgg8,step_sibling,Yes,0,Do you... know where Scotland is?,Agrima
+dtjvv2s,friend,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,grandparent,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,domestic_partner,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,best_friend,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,friends_with_benefits,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,childhood_friend,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,uncle_aunt,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,divorcee,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,old_friend,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,ex_dating,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,neighbor,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,cousins,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,person_having_an_affair,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,acquaintance,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,coworker,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,complete_stranger,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,boss,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,parent,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,direct_report,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,employee_in_large_company,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,colleague,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,sibling,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,dating,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,step_sibling,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,engaged,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjvv2s,married,Yes,0,Her mommy and daddy must be so proud of her accomplishments! Not every girl who can do that and not fall flat on their face.,Agrima
+dtjs1kb,friend,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,domestic_partner,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,person_with_authority,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,best_friend,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,friends_with_benefits,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,childhood_friend,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,divorcee,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,old_friend,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,ex_dating,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,neighbor,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,cousins,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,person_having_an_affair,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,mentor,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,acquaintance,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,coworker,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,mentee,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,complete_stranger,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,boss,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,direct_report,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,lawyer,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,employee_in_large_company,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,colleague,No,1,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,sibling,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,dating,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,step_sibling,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,engaged,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjs1kb,married,Yes,0,"Because they need a distraction, and a scapegoat.",Agrima
+dtjulay,friend,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,grandparent,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,domestic_partner,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,person_with_authority,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,best_friend,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,grandchild,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,friends_with_benefits,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,childhood_friend,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,uncle_aunt,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,divorcee,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,student,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,old_friend,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,neice_nephew,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,ex_dating,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,cousins,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,person_having_an_affair,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,coworker,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,mentee,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,boss,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,parent,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,direct_report,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,child,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,employee_in_large_company,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,adopted_child,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,colleague,No,1,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,sibling,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,dating,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,step_sibling,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,engaged,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtjulay,married,Yes,0,"Let's be honest, no matter what they do, you'll still say it's not good enough.",Agrima
+dtk4ieg,friend,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,grandparent,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,domestic_partner,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,best_friend,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,grandchild,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,friends_with_benefits,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,childhood_friend,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,uncle_aunt,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,divorcee,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,student,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,old_friend,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,neice_nephew,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,ex_dating,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,neighbor,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,cousins,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,person_having_an_affair,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,acquaintance,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,coworker,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,mentee,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,complete_stranger,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,boss,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,parent,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,direct_report,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,child,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,employee_in_large_company,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,adopted_child,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,colleague,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,sibling,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,dating,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,step_sibling,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,engaged,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtk4ieg,married,No,1,"Or what? You are going to send us to the gas chambers???? What kind of view is this? You don't ""feed"" us....",Agrima
+dtjqofr,friend,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,domestic_partner,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,person_with_authority,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,best_friend,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,grandchild,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,friends_with_benefits,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,law_enforcement,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,childhood_friend,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,divorcee,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,student,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,old_friend,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,neice_nephew,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,ex_dating,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,neighbor,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,cousins,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,person_having_an_affair,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,mentor,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,acquaintance,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,coworker,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,mentee,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,complete_stranger,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,boss,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,direct_report,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,child,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,employee_in_large_company,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,client,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,adopted_child,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,colleague,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,sibling,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,dating,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,step_sibling,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,engaged,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjqofr,married,Yes,0,Why is the investigation only half-cocked when it has been over a year since crimes were committed?,Agrima
+dtjs0xm,friend,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,grandparent,No,1,What the hell are bangs?,Agrima
+dtjs0xm,domestic_partner,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,person_with_authority,No,1,What the hell are bangs?,Agrima
+dtjs0xm,best_friend,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,grandchild,No,1,What the hell are bangs?,Agrima
+dtjs0xm,friends_with_benefits,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,childhood_friend,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,uncle_aunt,No,1,What the hell are bangs?,Agrima
+dtjs0xm,divorcee,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,old_friend,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,neice_nephew,No,1,What the hell are bangs?,Agrima
+dtjs0xm,ex_dating,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,neighbor,No,1,What the hell are bangs?,Agrima
+dtjs0xm,cousins,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,person_having_an_affair,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,acquaintance,No,1,What the hell are bangs?,Agrima
+dtjs0xm,coworker,No,1,What the hell are bangs?,Agrima
+dtjs0xm,complete_stranger,No,1,What the hell are bangs?,Agrima
+dtjs0xm,parent,No,1,What the hell are bangs?,Agrima
+dtjs0xm,child,No,1,What the hell are bangs?,Agrima
+dtjs0xm,adopted_child,No,1,What the hell are bangs?,Agrima
+dtjs0xm,sibling,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,dating,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,step_sibling,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,engaged,Yes,0,What the hell are bangs?,Agrima
+dtjs0xm,married,Yes,0,What the hell are bangs?,Agrima
+dtk39v4,friend,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,grandparent,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,domestic_partner,Yes,0,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,person_with_authority,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,best_friend,Yes,0,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,grandchild,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,friends_with_benefits,Yes,0,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,law_enforcement,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,childhood_friend,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,uncle_aunt,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,divorcee,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,old_friend,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,neice_nephew,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,ex_dating,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,teacher,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,neighbor,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,cousins,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,mentor,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,acquaintance,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,coworker,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,mentee,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,complete_stranger,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,boss,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,parent,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,direct_report,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,child,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,employee_in_large_company,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,adopted_child,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,colleague,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,sibling,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,dating,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,step_sibling,No,1,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,engaged,Yes,0,Now would be a great time for a non violent coup.,Agrima
+dtk39v4,married,Yes,0,Now would be a great time for a non violent coup.,Agrima
+dtjvzp2,domestic_partner,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,friends_with_benefits,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,divorcee,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,ex_dating,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,person_having_an_affair,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,mentor,No,1,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,coworker,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,mentee,No,1,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,boss,No,1,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,direct_report,No,1,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,employee_in_large_company,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,colleague,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,dating,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,engaged,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,married,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjvzp2,competitor,Yes,0,It has always been a get rich quick scheme. Why do you think they're designed to be deflationary?,Agrima
+dtjpcao,friend,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,domestic_partner,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,person_with_authority,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,best_friend,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,grandchild,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,friends_with_benefits,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,childhood_friend,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,divorcee,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,old_friend,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,neice_nephew,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,ex_dating,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,neighbor,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,cousins,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,person_having_an_affair,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,mentor,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,acquaintance,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,coworker,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,complete_stranger,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,boss,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,direct_report,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,lawyer,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,child,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,employee_in_large_company,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,adopted_child,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,colleague,No,1,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,sibling,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,dating,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,step_sibling,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,engaged,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjpcao,married,Yes,0,"Well, it's not like you forced her to use her cell phone and drive. I wouldn't really beat yourself up over that... but offering up your roommates is pretty fucking messed up.",Agrima
+dtjtuoq,friend,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,grandparent,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,domestic_partner,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,person_with_authority,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,best_friend,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,grandchild,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,friends_with_benefits,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,childhood_friend,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,uncle_aunt,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,divorcee,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,old_friend,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,neice_nephew,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,ex_dating,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,teacher,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,neighbor,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,cousins,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,person_having_an_affair,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,mentor,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,acquaintance,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,coworker,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,complete_stranger,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,boss,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,parent,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,direct_report,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,child,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,employee_in_large_company,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,adopted_child,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,colleague,No,1,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,sibling,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,dating,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,step_sibling,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,engaged,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjtuoq,married,Yes,0,"Well...if the Guardian prints it, it must be the truth!",Agrima
+dtjqxl3,grandparent,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+dtjqxl3,person_with_authority,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+dtjqxl3,uncle_aunt,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+dtjqxl3,teacher,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+dtjqxl3,parent,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+dtjqxl3,classmate,No,1,"Great, you're willing to charge other kids for your stuff. So noble.",Agrima
+id_33,old_friend,Yes,0,Are you high?,first-round
+id_34,friend,Yes,0,Are you high?,first-round
+id_35,sibling,Yes,0,Are you high?,first-round
+id_36,childhood_friend,Yes,0,Are you high?,first-round
+id_37,law_enforcement,Yes,0,Are you high?,first-round
+id_38,best_friend,Yes,0,Are you high?,first-round
+id_39,direct_report,No,1,Are you high?,first-round
+id_158,ex_dating,Yes,0,You gotta have a spine to understand. Don't worry about it.,first-round
+id_159,coworker,No,1,You gotta have a spine to understand. Don't worry about it.,first-round
+id_492,married,Yes,0,So how much does Netflix pay you?,first-round
+id_493,dating,Yes,0,So how much does Netflix pay you?,first-round
+id_494,engaged,Yes,0,So how much does Netflix pay you?,first-round
+id_495,direct_report,No,1,So how much does Netflix pay you?,first-round
+id_638,married,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_639,dating,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_640,acquaintance,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_641,old_friend,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_642,friend,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_643,sibling,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_644,friends_with_benefits,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_645,childhood_friend,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_646,cousins,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_647,best_friend,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_648,engaged,Yes,0,It’s my birthday today and we are going record shopping.,first-round
+id_649,boss,No,1,It’s my birthday today and we are going record shopping.,first-round
+id_663,best_friend,Yes,0,I’m sorry but trying too hard to look sexy is ugly.,first-round
+id_664,married,No,1,I’m sorry but trying too hard to look sexy is ugly.,first-round
+id_1156,best_friend,Yes,0,If you set low expectations you can't be disappointed!,first-round
+id_1157,boss,No,1,If you set low expectations you can't be disappointed!,first-round
+id_1194,parent,Yes,0,You have to eat two scoops of ice cream.,first-round
+id_1195,sibling,Yes,0,You have to eat two scoops of ice cream.,first-round
+id_1196,person_with_authority,No,1,You have to eat two scoops of ice cream.,first-round
+id_1197,boss,No,1,You have to eat two scoops of ice cream.,first-round
+id_1198,parent,Yes,0,You gonna cry?,first-round
+id_1199,sibling,Yes,0,You gonna cry?,first-round
+id_1200,best_friend,Yes,0,You gonna cry?,first-round
+id_1201,person_with_authority,No,1,You gonna cry?,first-round
+id_1202,rival,No,1,You gonna cry?,first-round
+id_1203,competitor,No,1,You gonna cry?,first-round
+id_1204,enemy,No,1,You gonna cry?,first-round
+id_1205,law_enforcement,No,1,You gonna cry?,first-round
+id_1290,doctor,Yes,0,I think you are diabetic,first-round
+id_1291,complete_stranger,No,1,I think you are diabetic,first-round
+id_1292,neighbor,No,1,I think you are diabetic,first-round
+id_1293,acquaintance,No,1,I think you are diabetic,first-round
+id_1341,married,Yes,0,Your sister bothers me,first-round
+id_1342,engaged,Yes,0,Your sister bothers me,first-round
+id_1343,grandchild,No,1,Your sister bothers me,first-round
+id_1344,neighbor,No,1,Your sister bothers me,first-round
+id_1357,best_friend,Yes,0,Have you tried not dying?,first-round
+id_1358,doctor,No,1,Have you tried not dying?,first-round
+id_1481,friend,Yes,0,I'm tired of living paycheck to paycheck.,first-round
+id_1482,best_friend,Yes,0,I'm tired of living paycheck to paycheck.,first-round
+id_1483,direct_report,No,1,I'm tired of living paycheck to paycheck.,first-round
+id_1512,parent,Yes,0,I want to go home,first-round
+id_1513,friend,Yes,0,I want to go home,first-round
+id_1514,sibling,Yes,0,I want to go home,first-round
+id_1515,best_friend,Yes,0,I want to go home,first-round
+id_1516,direct_report,No,1,I want to go home,first-round
+id_1522,best_friend,Yes,0,I think I could beat you up,first-round
+id_1523,direct_report,No,1,I think I could beat you up,first-round
+id_1524,coworker,No,1,I think I could beat you up,first-round
+id_1525,boss,No,1,I think I could beat you up,first-round
+id_1579,friend,Yes,0,Tell your mom I said hello,first-round
+id_1580,neighbor,Yes,0,Tell your mom I said hello,first-round
+id_1581,engaged,Yes,0,Tell your mom I said hello,first-round
+id_1582,person_having_an_affair,No,1,Tell your mom I said hello,first-round
+id_1666,parent,Yes,0,Come to church with me this weekend,first-round
+id_1667,friend,Yes,0,Come to church with me this weekend,first-round
+id_1668,best_friend,Yes,0,Come to church with me this weekend,first-round
+id_1669,boss,No,1,Come to church with me this weekend,first-round
+id_1670,teacher,No,1,Come to church with me this weekend,first-round
+id_1671,law_enforcement,No,1,Come to church with me this weekend,first-round
+id_1672,employee_in_large_company,No,1,Come to church with me this weekend,first-round
+id_1773,step_sibling,Yes,0,You sure are [disgusting]!,first-round
+id_1774,rival,Yes,0,You sure are [disgusting]!,first-round
+id_1775,person_having_an_affair,Yes,0,You sure are [disgusting]!,first-round
+id_1776,competitor,Yes,0,You sure are [disgusting]!,first-round
+id_1777,ex_dating,Yes,0,You sure are [disgusting]!,first-round
+id_1778,divorcee,Yes,0,You sure are [disgusting]!,first-round
+id_1779,enemy,Yes,0,You sure are [disgusting]!,first-round
+id_1780,best_friend,Yes,0,You sure are [disgusting]!,first-round
+id_1781,landlord,No,1,You sure are [disgusting]!,first-round
+id_1782,boss,No,1,You sure are [disgusting]!,first-round
+id_1783,teacher,No,1,You sure are [disgusting]!,first-round
+id_1784,mentor,No,1,You sure are [disgusting]!,first-round
+id_1837,person_having_an_affair,Yes,0,Well would your wife just let you leave a condom on her.,first-round
+id_1838,old_friend,Yes,0,Well would your wife just let you leave a condom on her.,first-round
+id_1839,childhood_friend,Yes,0,Well would your wife just let you leave a condom on her.,first-round
+id_1840,best_friend,Yes,0,Well would your wife just let you leave a condom on her.,first-round
+id_1841,direct_report,No,1,Well would your wife just let you leave a condom on her.,first-round
+id_1842,colleague,No,1,Well would your wife just let you leave a condom on her.,first-round
+id_1843,landlord,No,1,Well would your wife just let you leave a condom on her.,first-round
+id_1844,boss,No,1,Well would your wife just let you leave a condom on her.,first-round
+id_1845,neighbor,No,1,Well would your wife just let you leave a condom on her.,first-round
+id_1980,complete_stranger,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1981,direct_report,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1982,acquaintance,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1983,coworker,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1984,teacher,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1985,boss,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1986,friend,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1987,best_friend,Yes,0,Thanks seems like a cool movie. I didnt know,first-round
+id_1988,person_having_an_affair,No,1,Thanks seems like a cool movie. I didnt know,first-round
+id_1989,landlord,No,1,Thanks seems like a cool movie. I didnt know,first-round
+id_1990,married,Yes,0,That's what happens when you breed with your family.,first-round
+id_1991,dating,Yes,0,That's what happens when you breed with your family.,first-round
+id_1992,friends_with_benefits,Yes,0,That's what happens when you breed with your family.,first-round
+id_1993,best_friend,Yes,0,That's what happens when you breed with your family.,first-round
+id_1994,person_with_authority,No,1,That's what happens when you breed with your family.,first-round
+id_1995,complete_stranger,No,1,That's what happens when you breed with your family.,first-round
+id_1996,coworker,No,1,That's what happens when you breed with your family.,first-round
+id_1997,boss,No,1,That's what happens when you breed with your family.,first-round
+id_1998,teacher,No,1,That's what happens when you breed with your family.,first-round
+id_1999,divorcee,No,1,That's what happens when you breed with your family.,first-round
+id_2017,old_friend,Yes,0,Don't have kids.,first-round
+id_2018,childhood_friend,Yes,0,Don't have kids.,first-round
+id_2019,best_friend,Yes,0,Don't have kids.,first-round
+id_2020,parent,No,1,Don't have kids.,first-round
+id_2021,domestic_partner,No,1,Don't have kids.,first-round
+id_2022,ex_dating,No,1,Don't have kids.,first-round
+id_2023,divorcee,No,1,Don't have kids.,first-round
+id_2043,colleague,Yes,0,You get an automatic C for going to a protest? What class do you teach?,first-round
+id_2181,landlord,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2182,domestic_partner,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2183,coworker,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2184,friend,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2185,neighbor,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2186,law_enforcement,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2187,best_friend,Yes,0,Your dad is abusive and you should call cps.,first-round
+id_2188,complete_stranger,No,1,Your dad is abusive and you should call cps.,first-round
+id_2241,complete_stranger,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2242,sports_teammate,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2243,married,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2244,uncle_aunt,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2245,colleague,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2246,dating,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2247,classmate,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2248,coworker,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2249,old_friend,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2250,friend,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2251,childhood_friend,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2252,best_friend,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2253,engaged,Yes,0,We get it. You are so salty the eagles didn't get him.,first-round
+id_2254,grandchild,No,1,We get it. You are so salty the eagles didn't get him.,first-round
+id_2361,old_friend,Yes,0,She is actually so attractive.,first-round
+id_2362,friend,Yes,0,She is actually so attractive.,first-round
+id_2363,childhood_friend,Yes,0,She is actually so attractive.,first-round
+id_2364,best_friend,Yes,0,She is actually so attractive.,first-round
+id_2365,colleague,No,1,She is actually so attractive.,first-round
+id_2366,landlord,No,1,She is actually so attractive.,first-round
+id_2367,boss,No,1,She is actually so attractive.,first-round
+id_2368,teacher,No,1,She is actually so attractive.,first-round
+id_2369,mentor,No,1,She is actually so attractive.,first-round
+id_2370,step_sibling,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2371,complete_stranger,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2372,direct_report,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2373,parent,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2374,mentee,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2375,married,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2376,rival,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2377,uncle_aunt,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2378,colleague,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2379,dating,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2380,student,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2381,domestic_partner,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2382,acquaintance,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2383,coworker,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2384,teacher,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2385,boss,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2386,old_friend,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2387,friend,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2388,sibling,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2389,grandparent,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2390,competitor,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2391,mentor,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2392,friends_with_benefits,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2393,neighbor,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2394,ex_dating,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2395,childhood_friend,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2396,divorcee,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2397,enemy,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2398,employee_in_large_company,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2399,cousins,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2400,best_friend,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2401,engaged,Yes,0,Believe it or not many women have jobs now and buy their own things!,first-round
+id_2402,step_sibling,Yes,0,You sound very privileged.,first-round
+id_2403,parent,Yes,0,You sound very privileged.,first-round
+id_2404,rival,Yes,0,You sound very privileged.,first-round
+id_2405,classmate,Yes,0,You sound very privileged.,first-round
+id_2406,coworker,Yes,0,You sound very privileged.,first-round
+id_2407,old_friend,Yes,0,You sound very privileged.,first-round
+id_2408,friend,Yes,0,You sound very privileged.,first-round
+id_2409,sibling,Yes,0,You sound very privileged.,first-round
+id_2410,competitor,Yes,0,You sound very privileged.,first-round
+id_2411,neighbor,Yes,0,You sound very privileged.,first-round
+id_2412,ex_dating,Yes,0,You sound very privileged.,first-round
+id_2413,childhood_friend,Yes,0,You sound very privileged.,first-round
+id_2414,divorcee,Yes,0,You sound very privileged.,first-round
+id_2415,enemy,Yes,0,You sound very privileged.,first-round
+id_2416,best_friend,Yes,0,You sound very privileged.,first-round
+id_2417,boss,No,1,You sound very privileged.,first-round
+id_2418,teacher,No,1,You sound very privileged.,first-round
+id_2441,parent,Yes,0,You seem angry. Want a hug?,first-round
+id_2442,married,Yes,0,You seem angry. Want a hug?,first-round
+id_2443,uncle_aunt,Yes,0,You seem angry. Want a hug?,first-round
+id_2444,dating,Yes,0,You seem angry. Want a hug?,first-round
+id_2445,old_friend,Yes,0,You seem angry. Want a hug?,first-round
+id_2446,friend,Yes,0,You seem angry. Want a hug?,first-round
+id_2447,grandparent,Yes,0,You seem angry. Want a hug?,first-round
+id_2448,friends_with_benefits,Yes,0,You seem angry. Want a hug?,first-round
+id_2449,childhood_friend,Yes,0,You seem angry. Want a hug?,first-round
+id_2450,cousins,Yes,0,You seem angry. Want a hug?,first-round
+id_2451,best_friend,Yes,0,You seem angry. Want a hug?,first-round
+id_2452,engaged,Yes,0,You seem angry. Want a hug?,first-round
+id_2453,colleague,No,1,You seem angry. Want a hug?,first-round
+id_2454,landlord,No,1,You seem angry. Want a hug?,first-round
+id_2455,coworker,No,1,You seem angry. Want a hug?,first-round
+id_2456,boss,No,1,You seem angry. Want a hug?,first-round
+id_2457,teacher,No,1,You seem angry. Want a hug?,first-round
+id_2458,neighbor,No,1,You seem angry. Want a hug?,first-round
+id_2459,law_enforcement,No,1,You seem angry. Want a hug?,first-round
+id_2609,step_sibling,Yes,0,I take it youve never been to California...,first-round
+id_2610,complete_stranger,Yes,0,I take it youve never been to California...,first-round
+id_2611,direct_report,Yes,0,I take it youve never been to California...,first-round
+id_2612,sports_teammate,Yes,0,I take it youve never been to California...,first-round
+id_2613,mentee,Yes,0,I take it youve never been to California...,first-round
+id_2614,uncle_aunt,Yes,0,I take it youve never been to California...,first-round
+id_2615,colleague,Yes,0,I take it youve never been to California...,first-round
+id_2616,dating,Yes,0,I take it youve never been to California...,first-round
+id_2617,landlord,Yes,0,I take it youve never been to California...,first-round
+id_2618,acquaintance,Yes,0,I take it youve never been to California...,first-round
+id_2619,coworker,Yes,0,I take it youve never been to California...,first-round
+id_2620,teacher,Yes,0,I take it youve never been to California...,first-round
+id_2621,boss,Yes,0,I take it youve never been to California...,first-round
+id_2622,old_friend,Yes,0,I take it youve never been to California...,first-round
+id_2623,grandparent,Yes,0,I take it youve never been to California...,first-round
+id_2624,mentor,Yes,0,I take it youve never been to California...,first-round
+id_2625,friends_with_benefits,Yes,0,I take it youve never been to California...,first-round
+id_2626,neighbor,Yes,0,I take it youve never been to California...,first-round
+id_2627,childhood_friend,Yes,0,I take it youve never been to California...,first-round
+id_2628,law_enforcement,Yes,0,I take it youve never been to California...,first-round
+id_2629,employee_in_large_company,Yes,0,I take it youve never been to California...,first-round
+id_2630,cousins,Yes,0,I take it youve never been to California...,first-round
+id_2631,enemy,No,1,I take it youve never been to California...,first-round
+id_3024,friend,Yes,0,When she takes her nigga name out her bio.,first-round
+id_3025,best_friend,Yes,0,When she takes her nigga name out her bio.,first-round
+id_3026,child,No,1,When she takes her nigga name out her bio.,first-round
+id_3027,person_with_authority,No,1,When she takes her nigga name out her bio.,first-round
+id_3028,step_sibling,No,1,When she takes her nigga name out her bio.,first-round
+id_3029,complete_stranger,No,1,When she takes her nigga name out her bio.,first-round
+id_3030,fan,No,1,When she takes her nigga name out her bio.,first-round
+id_3031,lawyer,No,1,When she takes her nigga name out her bio.,first-round
+id_3032,adopted_child,No,1,When she takes her nigga name out her bio.,first-round
+id_3033,direct_report,No,1,When she takes her nigga name out her bio.,first-round
+id_3034,parent,No,1,When she takes her nigga name out her bio.,first-round
+id_3035,grandchild,No,1,When she takes her nigga name out her bio.,first-round
+id_3036,patient,No,1,When she takes her nigga name out her bio.,first-round
+id_3037,sports_teammate,No,1,When she takes her nigga name out her bio.,first-round
+id_3038,mentee,No,1,When she takes her nigga name out her bio.,first-round
+id_3039,married,No,1,When she takes her nigga name out her bio.,first-round
+id_3040,rival,No,1,When she takes her nigga name out her bio.,first-round
+id_3041,uncle_aunt,No,1,When she takes her nigga name out her bio.,first-round
+id_3042,colleague,No,1,When she takes her nigga name out her bio.,first-round
+id_3043,dating,No,1,When she takes her nigga name out her bio.,first-round
+id_3044,hero,No,1,When she takes her nigga name out her bio.,first-round
+id_3045,person_having_an_affair,No,1,When she takes her nigga name out her bio.,first-round
+id_3046,doctor,No,1,When she takes her nigga name out her bio.,first-round
+id_3047,landlord,No,1,When she takes her nigga name out her bio.,first-round
+id_3048,student,No,1,When she takes her nigga name out her bio.,first-round
+id_3049,classmate,No,1,When she takes her nigga name out her bio.,first-round
+id_3050,domestic_partner,No,1,When she takes her nigga name out her bio.,first-round
+id_3051,coworker,No,1,When she takes her nigga name out her bio.,first-round
+id_3052,boss,No,1,When she takes her nigga name out her bio.,first-round
+id_3053,teacher,No,1,When she takes her nigga name out her bio.,first-round
+id_3054,old_friend,No,1,When she takes her nigga name out her bio.,first-round
+id_3055,friend,No,1,When she takes her nigga name out her bio.,first-round
+id_3056,engaged,No,1,When she takes her nigga name out her bio.,first-round
+id_3057,grandparent,No,1,When she takes her nigga name out her bio.,first-round
+id_3058,sibling,No,1,When she takes her nigga name out her bio.,first-round
+id_3059,competitor,No,1,When she takes her nigga name out her bio.,first-round
+id_3060,mentor,No,1,When she takes her nigga name out her bio.,first-round
+id_3061,friends_with_benefits,No,1,When she takes her nigga name out her bio.,first-round
+id_3062,neighbor,No,1,When she takes her nigga name out her bio.,first-round
+id_3063,ex_dating,No,1,When she takes her nigga name out her bio.,first-round
+id_3064,club_member,No,1,When she takes her nigga name out her bio.,first-round
+id_3065,client,No,1,When she takes her nigga name out her bio.,first-round
+id_3066,childhood_friend,No,1,When she takes her nigga name out her bio.,first-round
+id_3067,enemy,No,1,When she takes her nigga name out her bio.,first-round
+id_3068,divorcee,No,1,When she takes her nigga name out her bio.,first-round
+id_3069,law_enforcement,No,1,When she takes her nigga name out her bio.,first-round
+id_3070,employee_in_large_company,No,1,When she takes her nigga name out her bio.,first-round
+id_3071,cousins,No,1,When she takes her nigga name out her bio.,first-round
+id_3072,best_friend,No,1,When she takes her nigga name out her bio.,first-round
+id_3073,acquaintance,No,1,When she takes her nigga name out her bio.,first-round
+id_3405,step_sibling,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3406,person_with_authority,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3407,child,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3408,fan,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3409,complete_stranger,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3410,lawyer,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3411,adopted_child,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3412,direct_report,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3413,parent,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3414,grandchild,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3415,patient,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3416,sports_teammate,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3417,mentee,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3418,married,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3419,uncle_aunt,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3420,colleague,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3421,dating,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3422,hero,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3423,person_having_an_affair,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3424,doctor,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3425,landlord,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3426,student,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3427,classmate,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3428,domestic_partner,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3429,acquaintance,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3430,coworker,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3431,teacher,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3432,boss,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3433,old_friend,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3434,friend,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3435,sibling,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3436,grandparent,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3437,competitor,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3438,mentor,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3439,friends_with_benefits,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3440,neighbor,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3441,ex_dating,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3442,club_member,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3443,client,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3444,childhood_friend,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3445,divorcee,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3446,law_enforcement,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3447,employee_in_large_company,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3448,cousins,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3449,best_friend,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3450,engaged,Yes,0,Yeah. We are all weirdly identifying with our vaccine brand. I feel like Johnson & Johnson is the Hufflepuff!,first-round
+id_3451,step_sibling,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3452,child,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3453,fan,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3454,complete_stranger,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3455,adopted_child,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3456,direct_report,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3457,parent,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3458,sports_teammate,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3459,married,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3460,colleague,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3461,dating,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3462,person_having_an_affair,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3463,landlord,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3464,classmate,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3465,domestic_partner,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3466,acquaintance,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3467,coworker,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3468,boss,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3469,old_friend,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3470,friend,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3471,sibling,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3472,friends_with_benefits,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3473,neighbor,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3474,ex_dating,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3475,club_member,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3476,childhood_friend,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3477,divorcee,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3478,cousins,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3479,best_friend,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3480,engaged,Yes,0,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3481,lawyer,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3482,uncle_aunt,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3483,doctor,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3484,teacher,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3485,grandparent,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3486,law_enforcement,No,1,"nah bro that's not gay, every guy wants to fuck ewan mcgregor",first-round
+id_3614,parent,Yes,0,You need to stop spilling juice on your pants!,first-round
+id_3615,uncle_aunt,Yes,0,You need to stop spilling juice on your pants!,first-round
+id_3616,sibling,Yes,0,You need to stop spilling juice on your pants!,first-round
+id_3617,grandparent,Yes,0,You need to stop spilling juice on your pants!,first-round
+id_3618,cousins,Yes,0,You need to stop spilling juice on your pants!,first-round
+id_3619,coworker,No,1,You need to stop spilling juice on your pants!,first-round
+id_3620,boss,No,1,You need to stop spilling juice on your pants!,first-round
+id_3621,teacher,No,1,You need to stop spilling juice on your pants!,first-round
+id_3773,best_friend,Yes,0,What is your weirdest porn fetish?,first-round
+id_3774,direct_report,No,1,What is your weirdest porn fetish?,first-round
+id_3775,parent,No,1,What is your weirdest porn fetish?,first-round
+id_3776,sports_teammate,No,1,What is your weirdest porn fetish?,first-round
+id_3777,mentee,No,1,What is your weirdest porn fetish?,first-round
+id_3778,landlord,No,1,What is your weirdest porn fetish?,first-round
+id_3779,coworker,No,1,What is your weirdest porn fetish?,first-round
+id_3780,boss,No,1,What is your weirdest porn fetish?,first-round
+id_3781,teacher,No,1,What is your weirdest porn fetish?,first-round
+id_3782,grandparent,No,1,What is your weirdest porn fetish?,first-round
+id_3783,club_member,No,1,What is your weirdest porn fetish?,first-round
+id_3784,divorcee,No,1,What is your weirdest porn fetish?,first-round
+id_3785,law_enforcement,No,1,What is your weirdest porn fetish?,first-round
+id_3834,lawyer,Yes,0,We're going to have to put your pet down,first-round
+id_3835,parent,Yes,0,We're going to have to put your pet down,first-round
+id_3836,law_enforcement,Yes,0,We're going to have to put your pet down,first-round
+id_3837,fan,No,1,We're going to have to put your pet down,first-round
+id_3838,direct_report,No,1,We're going to have to put your pet down,first-round
+id_3839,sports_teammate,No,1,We're going to have to put your pet down,first-round
+id_3840,landlord,No,1,We're going to have to put your pet down,first-round
+id_3841,classmate,No,1,We're going to have to put your pet down,first-round
+id_3842,coworker,No,1,We're going to have to put your pet down,first-round
+id_3843,boss,No,1,We're going to have to put your pet down,first-round
+id_3844,neighbor,No,1,We're going to have to put your pet down,first-round
+id_3845,club_member,No,1,We're going to have to put your pet down,first-round
+id_3846,acquaintance,No,1,We're going to have to put your pet down,first-round
+id_3927,married,Yes,0,Why are you so seductive?,first-round
+id_3928,dating,Yes,0,Why are you so seductive?,first-round
+id_3929,person_having_an_affair,Yes,0,Why are you so seductive?,first-round
+id_3930,domestic_partner,Yes,0,Why are you so seductive?,first-round
+id_3931,friend,Yes,0,Why are you so seductive?,first-round
+id_3932,friends_with_benefits,Yes,0,Why are you so seductive?,first-round
+id_3933,engaged,Yes,0,Why are you so seductive?,first-round
+id_3934,person_with_authority,No,1,Why are you so seductive?,first-round
+id_3935,complete_stranger,No,1,Why are you so seductive?,first-round
+id_3936,lawyer,No,1,Why are you so seductive?,first-round
+id_3937,direct_report,No,1,Why are you so seductive?,first-round
+id_3938,doctor,No,1,Why are you so seductive?,first-round
+id_3939,coworker,No,1,Why are you so seductive?,first-round
+id_3940,boss,No,1,Why are you so seductive?,first-round
+id_3941,law_enforcement,No,1,Why are you so seductive?,first-round
+id_3985,step_sibling,Yes,0,I fucking like it!,first-round
+id_3986,sports_teammate,Yes,0,I fucking like it!,first-round
+id_3987,married,Yes,0,I fucking like it!,first-round
+id_3988,dating,Yes,0,I fucking like it!,first-round
+id_3989,person_having_an_affair,Yes,0,I fucking like it!,first-round
+id_3990,classmate,Yes,0,I fucking like it!,first-round
+id_3991,domestic_partner,Yes,0,I fucking like it!,first-round
+id_3992,coworker,Yes,0,I fucking like it!,first-round
+id_3993,old_friend,Yes,0,I fucking like it!,first-round
+id_3994,friend,Yes,0,I fucking like it!,first-round
+id_3995,sibling,Yes,0,I fucking like it!,first-round
+id_3996,friends_with_benefits,Yes,0,I fucking like it!,first-round
+id_3997,cousins,Yes,0,I fucking like it!,first-round
+id_3998,best_friend,Yes,0,I fucking like it!,first-round
+id_3999,engaged,Yes,0,I fucking like it!,first-round
+id_4000,child,No,1,I fucking like it!,first-round
+id_4001,complete_stranger,No,1,I fucking like it!,first-round
+id_4002,lawyer,No,1,I fucking like it!,first-round
+id_4003,adopted_child,No,1,I fucking like it!,first-round
+id_4004,direct_report,No,1,I fucking like it!,first-round
+id_4005,parent,No,1,I fucking like it!,first-round
+id_4006,patient,No,1,I fucking like it!,first-round
+id_4007,mentee,No,1,I fucking like it!,first-round
+id_4008,uncle_aunt,No,1,I fucking like it!,first-round
+id_4009,colleague,No,1,I fucking like it!,first-round
+id_4010,doctor,No,1,I fucking like it!,first-round
+id_4011,landlord,No,1,I fucking like it!,first-round
+id_4012,student,No,1,I fucking like it!,first-round
+id_4013,boss,No,1,I fucking like it!,first-round
+id_4014,teacher,No,1,I fucking like it!,first-round
+id_4015,grandparent,No,1,I fucking like it!,first-round
+id_4016,mentor,No,1,I fucking like it!,first-round
+id_4017,client,No,1,I fucking like it!,first-round
+id_4018,employee_in_large_company,No,1,I fucking like it!,first-round
+id_4019,acquaintance,No,1,I fucking like it!,first-round
+id_4234,parent,Yes,0,You have a great imagination,first-round
+id_4235,teacher,Yes,0,You have a great imagination,first-round
+id_4236,grandparent,Yes,0,You have a great imagination,first-round
+id_4237,person_with_authority,No,1,You have a great imagination,first-round
+id_4238,lawyer,No,1,You have a great imagination,first-round
+id_4239,doctor,No,1,You have a great imagination,first-round
+id_4240,landlord,No,1,You have a great imagination,first-round
+id_4241,boss,No,1,You have a great imagination,first-round
+id_4242,law_enforcement,No,1,You have a great imagination,first-round
+id_4342,step_sibling,Yes,0,What's his deal?,first-round
+id_4343,sports_teammate,Yes,0,What's his deal?,first-round
+id_4344,married,Yes,0,What's his deal?,first-round
+id_4345,colleague,Yes,0,What's his deal?,first-round
+id_4346,dating,Yes,0,What's his deal?,first-round
+id_4347,classmate,Yes,0,What's his deal?,first-round
+id_4348,domestic_partner,Yes,0,What's his deal?,first-round
+id_4349,acquaintance,Yes,0,What's his deal?,first-round
+id_4350,coworker,Yes,0,What's his deal?,first-round
+id_4351,old_friend,Yes,0,What's his deal?,first-round
+id_4352,friend,Yes,0,What's his deal?,first-round
+id_4353,sibling,Yes,0,What's his deal?,first-round
+id_4354,friends_with_benefits,Yes,0,What's his deal?,first-round
+id_4355,neighbor,Yes,0,What's his deal?,first-round
+id_4356,ex_dating,Yes,0,What's his deal?,first-round
+id_4357,club_member,Yes,0,What's his deal?,first-round
+id_4358,childhood_friend,Yes,0,What's his deal?,first-round
+id_4359,divorcee,Yes,0,What's his deal?,first-round
+id_4360,employee_in_large_company,Yes,0,What's his deal?,first-round
+id_4361,cousins,Yes,0,What's his deal?,first-round
+id_4362,best_friend,Yes,0,What's his deal?,first-round
+id_4363,engaged,Yes,0,What's his deal?,first-round
+id_4364,complete_stranger,No,1,What's his deal?,first-round
+id_4365,parent,No,1,What's his deal?,first-round
+id_4366,teacher,No,1,What's his deal?,first-round
+id_4768,complete_stranger,Yes,0,Oh you're one of those people,first-round
+id_4769,rival,Yes,0,Oh you're one of those people,first-round
+id_4770,acquaintance,Yes,0,Oh you're one of those people,first-round
+id_4771,competitor,Yes,0,Oh you're one of those people,first-round
+id_4772,enemy,Yes,0,Oh you're one of those people,first-round
+id_4773,direct_report,No,1,Oh you're one of those people,first-round
+id_4774,sports_teammate,No,1,Oh you're one of those people,first-round
+id_4775,landlord,No,1,Oh you're one of those people,first-round
+id_4776,classmate,No,1,Oh you're one of those people,first-round
+id_4777,coworker,No,1,Oh you're one of those people,first-round
+id_4778,boss,No,1,Oh you're one of those people,first-round
+id_4779,teacher,No,1,Oh you're one of those people,first-round
+id_4780,friend,No,1,Oh you're one of those people,first-round
+id_4781,neighbor,No,1,Oh you're one of those people,first-round
+id_4782,club_member,No,1,Oh you're one of those people,first-round
+id_4783,best_friend,No,1,Oh you're one of those people,first-round
+id_4997,married,Yes,0,I won't get any work done today,first-round
+id_4998,dating,Yes,0,I won't get any work done today,first-round
+id_4999,classmate,Yes,0,I won't get any work done today,first-round
+id_5000,domestic_partner,Yes,0,I won't get any work done today,first-round
+id_5001,friend,Yes,0,I won't get any work done today,first-round
+id_5002,sibling,Yes,0,I won't get any work done today,first-round
+id_5003,club_member,Yes,0,I won't get any work done today,first-round
+id_5004,best_friend,Yes,0,I won't get any work done today,first-round
+id_5005,engaged,Yes,0,I won't get any work done today,first-round
+id_5006,person_with_authority,No,1,I won't get any work done today,first-round
+id_5007,direct_report,No,1,I won't get any work done today,first-round
+id_5008,rival,No,1,I won't get any work done today,first-round
+id_5009,coworker,No,1,I won't get any work done today,first-round
+id_5010,boss,No,1,I won't get any work done today,first-round
+id_5011,competitor,No,1,I won't get any work done today,first-round
+id_5012,enemy,No,1,I won't get any work done today,first-round
