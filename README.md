@@ -24,7 +24,6 @@ The repository is roughly broken up as follows
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
-    pages = "504--522",
 }
 ```
 
