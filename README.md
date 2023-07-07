@@ -13,6 +13,7 @@ The repository is roughly broken up as follows
 * `src/data`: Contains basic preprocessing for Phase 2 of the data annotation
 * `src/model`: Code for training and testing the contextual appropriateness model and the downstream models for Politeness and Condescension
 * `src/visualization`: Code for the plots in the downstream analyses
+* `model/`: The [PEFT](https://huggingface.co/docs/peft/task_guides/ptuning-seq-classification)-trained adapater for the highest-scoring model, based on `flan-t5-xl` 
 
 # Citation
 
